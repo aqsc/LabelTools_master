@@ -14,10 +14,10 @@ It is written in Python and uses Qt for its graphical interface.
 Annotations are saved as XML files in PASCAL VOC format, the format used
 by `ImageNet <http://www.image-net.org/>`__.
 
-.. image:: https://github.com/aqsc/LabelTools_master/demo/demo3.jpg
+.. image:: https://github.com/aqsc/LabelTools_master/master/demo/demo3.jpg
      :alt: Demo Image
 
-.. image:: https://github.com/aqsc/LabelTools_master/demo/demo.jpg
+.. image:: https://github.com/aqsc/LabelTools_master/master/demo/demo.jpg
      :alt: Demo Image
 
 `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
@@ -246,16 +246,15 @@ Send a pull request
 
 License
 ~~~~~~~
-`Free software: MIT license <https://github.com/aqsc/LabelTools_master/blob/master/LICENSE>`_
+`Free software: Qsc license <https://github.com/aqsc/LabelTools_master/blob/master/LICENSE>`_
 
-Citation: Tzutalin. LabelImg. Git code (2015). https://github.com/aqsc/LabelTools_master
+Citation: Qsc. LabelImg. Git code (2018). https://github.com/aqsc/LabelTools_master
 
 Related
 ~~~~~~~
 
 1. `ImageNet Utils <https://github.com/tzutalin/ImageNet_Utils>`__ to
    download image, create a label text for machine learning, etc
-2. `Use Docker to run labelImg <https://hub.docker.com/r/tzutalin/py2qt4>`__
-3. `Generating the PASCAL VOC TFRecord files <https://github.com/tensorflow/models/blob/4f32535fe7040bb1e429ad0e3c948a492a89482d/research/object_detection/g3doc/preparing_inputs.md#generating-the-pascal-voc-tfrecord-files>`__
-4. `App Icon based on Icon by Nick Roach (GPL)` <https://www.elegantthemes.com/> <https://www.iconfinder.com/icons/1054978/shop_tag_icon> __
+2. `Generating the PASCAL VOC TFRecord files <https://github.com/tensorflow/models/blob/4f32535fe7040bb1e429ad0e3c948a492a89482d/research/object_detection/g3doc/preparing_inputs.md#generating-the-pascal-voc-tfrecord-files>`__
+3. `App Icon based on Icon by Nick Roach (GPL)` <https://www.elegantthemes.com/> <https://www.iconfinder.com/icons/1054978/shop_tag_icon> __
 
