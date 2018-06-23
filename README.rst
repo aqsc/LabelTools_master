@@ -14,10 +14,10 @@ It is written in Python and uses Qt for its graphical interface.
 Annotations are saved as XML files in PASCAL VOC format, the format used
 by `ImageNet <http://www.image-net.org/>`__.
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg
+.. image:: https://github.com/aqsc/LabelTools_master/demo/demo3.jpg
      :alt: Demo Image
 
-.. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo.jpg
+.. image:: https://github.com/aqsc/LabelTools_master/demo/demo.jpg
      :alt: Demo Image
 
 `Watch a demo video <https://youtu.be/p0nR2YsCY_U>`__
@@ -28,7 +28,7 @@ Installation
 Download prebuilt binaries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  `Windows & Linux <https://tzutalin.github.io/labelImg/>`__
+-  `Windows & Linux <https://github.com/aqsc/LabelTools_master/>`__
 
 -  macOS. Binaries for macOS are not yet available. Help would be appreciated. At present, it must be `built from source <#macos>`__.
 
@@ -207,7 +207,7 @@ Create pre-defined classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can edit the
-`data/predefined\_classes.txt <https://github.com/tzutalin/labelImg/blob/master/data/predefined_classes.txt>`__
+`data/predefined\_classes.txt <https://github.com/aqsc/LabelTools_master/data/predefined_classes.txt>`__
 to load pre-defined classes
 
 Hotkeys
