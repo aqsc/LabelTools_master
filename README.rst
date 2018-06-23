@@ -246,9 +246,9 @@ Send a pull request
 
 License
 ~~~~~~~
-`Free software: MIT license <https://github.com/tzutalin/labelImg/blob/master/LICENSE>`_
+`Free software: MIT license <https://github.com/aqsc/LabelTools_master/blob/master/LICENSE>`_
 
-Citation: Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
+Citation: Tzutalin. LabelImg. Git code (2015). https://github.com/aqsc/LabelTools_master
 
 Related
 ~~~~~~~
